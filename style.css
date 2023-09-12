@@ -9,18 +9,17 @@
     height: 100vh;
     padding: 0;
     border: 0;
-    background: linear-gradient(to bottom right,  #4d658e, #eef2f3);
+    background:url('https://static.showit.co/800/HO3dh9TGT9G8qaciTQlK3w/73208/rebel_rise_patterns-09.jpg')
   }
   
   .form {
     background-color: #fff;
-    height: 240px;
+    height: 300px;
     width: 450px;
     border-radius: 20px;
-    margin: 20px auto 20px auto;
+    margin: 200px auto 20px auto;
     display: block;
     border: solid 1px #289df6;
-    
     box-shadow: 0 0 40px 0 #ddd;
   }
   
@@ -62,7 +61,7 @@
     border-radius: 10px;
     height: 40px;
     width: 140px;
-    background-color: #289df6;
+    background-color: #424649;
     color: #fff;
     margin: auto;
     display: block;
@@ -71,7 +70,7 @@
   }
   
   #submit:hover{
-    background-color: #0a8ef2;
+    background-color: #ccd7df;
   }
   
   .text {
@@ -114,14 +113,14 @@
   }
   
   .container input:checked ~ .checkmark {
-    background-color: #289df6;
+    background-color: #44494d;
   }
   
   h1 {
     font-size: 30px;
     font-weight: 300;
     text-align: center;
-    color: #289df6;
+    color:white;
     padding-top: 15px;
     display: block;
   }
@@ -130,14 +129,14 @@
     font-size: 22px;
     font-weight: 300;
     text-align: center;
+    color: white;
   }
   
   h3 {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 100;
     text-align: center;
-    padding: 15px;
-    color: #000000;
+    color:  #424649;
   }
   
   
